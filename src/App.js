@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import EditButton from './components/EditButton';
+import EditButton from './Components/EditButton';
 
 function App() {
   return (
